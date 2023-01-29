@@ -1,6 +1,6 @@
 # Queue-Stimulation-Using-Python-Tkinter
 
-**Hello Greeks !**
+**Hello Geeks !**
 
 
 <img src="https://github.com/chaitanya-chafale/Queue-Stimulation-Using-Python-Tkinter/blob/main/readme_image.PNG" width="800" height="400">
